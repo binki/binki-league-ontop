@@ -7,8 +7,8 @@ This script sets the always-on-top bit in the League client.
 
 ## Installation
 
-1. Clone this repository or download (view raw and save) the [`binki-league-client.cmd`](binki-league-client.cmd) file.
-2. Right-click on `binki-league-client.cmd` and choose “Create Shortcut” (on Windows 11 you may have to use shift+F10 instead of right-click to see the context menu).
+1. Clone this repository or download (view raw and save) the [`binki-league-ontop.cmd`](binki-league-ontop.cmd) file.
+2. Right-click on `binki-league-ontop.cmd` and choose “Create Shortcut” (on Windows 11 you may have to use shift+F10 instead of right-click to see the context menu).
 3. Rename the shortcut as you please. I name mine “binki league ontop”.
 4. Cut the shortcut and paste it to `%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`.
 5. You may now launch it via the Start Menu.
