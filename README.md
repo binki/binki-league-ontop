@@ -18,6 +18,7 @@ This script sets the always-on-top bit in the League client.
 If you have “friends” who play League without telling you, you may need to have the League client open at all times to watch for them.
 If you find staring at the League client for hours on end waiting for your friends to come online boring, you might want to perform other activities in the meantime.
 These other activities may include using programs such as mstsc (RDP Client), watching fullscreen videos, or otherwise using programs which end up covering the League client.
+
 To keep an eye on your friends list and appear online while still doing other tasks, you may simply set the always-on-top bit on the League window, stash it away in the lower left of your screen so that the upper-right corner of the client is showing, and occasionally click on the client to mark yourself online whenever it decides to mark you offline.
 
 ![screen example](https://i.imgur.com/wDs5iqI.png)
